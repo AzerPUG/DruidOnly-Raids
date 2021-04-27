@@ -56,7 +56,8 @@ Being on Discord during and for the entire event, is mandatory. We want to be ab
 - All gear Gemmed, where possible. (Sockets filled, not the Venari upgrade).
 
 ### Experience.
-We will not be explaining every litle detail of every single boss. But we also do not want you to be raiding on your Druid for the first time. To make sure everyone has at least some what an idea what they are doing, we expect every one to be 10/10NM on their Druid, before the Druid Only Raid!
+We will not be explaining every litle detail of every single boss. But we also do not want you to be raiding on your Druid for the first time. To make sure everyone has at least some what an idea what they are doing, we expect every one to be 10/10NM on their Druid, before the Druid Only Raid!  
+However, do not fear, AzerPUG has your back! Every Tuesday, from 19:00 - 22:00 Server Time, we do a Normal Teaching Raid. You can join this with a priority spot if you need to get those bosses down for the event. Although we never promise how much we can kill, we more often kill 10/10NM + 1/10HC, then anything less.
 
 ### Talents.
 We are fans of 'let people play what they want', but also of 'efficiency' and 'minmaxing'. To make sure we optimize at least a lot of passives, we have a few enforced talents.
