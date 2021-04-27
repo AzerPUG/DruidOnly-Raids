@@ -24,14 +24,14 @@ Joining this event, means you automatically agree to this! (this is also a stand
 # AddOns.
 AzerPUG has several mandatory AddOns. For this event, these will also be mandatory, to make sure everything goes as smooth as we normaly try to have our raids.  
 The use of all these AddOns, the settings you will need and why they are mandatory will be explained, in detail, during the pre-event meeting!  
-###Restoration / Guardian / Balance / Feral:
+### Restoration / Guardian / Balance / Feral:
 - Exorsus Raid Tools: (*Add Link*).
 - AzerPUG's Ready Check: (*Add Link*).
 
-Restoration / Balance:
+### Restoration / Balance:
 - AzerPUG's Mana Management: (*Add Link*).
 
-Balance / Feral:
+### Balance / Feral:
 - AzerPUG's Interrupt Helper: (*Add Link*).
 
 # Requirements.
@@ -40,20 +40,20 @@ To make sure that the event does not become a wipefest, we have to put some boun
 ### Discord.
 Being on Discord during and for the entire event, is mandatory. We want to be able to communicate. It is not a problem if you do not have a mic, althought it is strongly preferred. But at least hearing your Raid Leaders when they are talking will help out a lot!
 
-## Gear.
+### Gear.
 - Item Level 187+.
 - Legendary Rank 1+. (that is applicable for your spec).
 - All gear Enchanted, where possible.
 - All gear Gemmed, where possible. (Sockets filled, not the Venari upgrade).
 
-## Talents.
+### Talents.
 I am a fan of let people play what they want, but also one of efficiency and minmaxing. To make sure we optimize at least a lot of passives, we have a few enforced talents.
 - Renewal. The 'Oh Shit' button your healers do not have, on a 90s CoolDown. (Restoration / Balance / Feral).
 - Restoration Affinity. Ysera's Gift all the way, but also the ability to help out healing when needed. (Guardian, Balance, Feral).
 - Guardian Affinity. Since we can not choose RestoAff as Resto, we will go with Damage Reduction, plus several extra tanks when needed! (Restoration).
 - Heart of the Wild. Making your Affinity choice stronger gives us all the things we want, but stronger! (Restoration / Guardian / Balance / Feral).
 
-## Consumables.
+### Consumables.
 - 3 Flasks (2 for Alchemysts).
 - 3 Weapon Mods.
 - 2 Armor Kits.
