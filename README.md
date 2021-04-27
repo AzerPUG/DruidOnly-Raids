@@ -12,8 +12,21 @@ The AzerPUG rules can be found on our website: https://www.azerpug.com/
 
 # Filming and Streaming.
 The event will be streamed on the offical AzerPUG Twitch. A video will be created and put on the official AzerPUG YouTube after wards as well.  
+All direct donations during this event, will be going to *Input Charity Here!*. 
 Due to this, and to prevent 'competing' with our official channels, you are NOT allowed to stream / record the event.  
 Joining this event, means you automatically agree to this! (this is also a standard AzerPUG rule).
+
+# AddOns.
+AzerPUG has several mandatory AddOns. For this event, these will also be mandatory, to make sure everything goes as smooth as we normaly try to have our raids.  
+The use of all these AddOns, including why they are mandatory will be explained, in detail, before the event!  
+Restoration / Guardian / Balance / Feral:
+- AzerPUG's Ready Check: (*Add Link*).
+
+Restoration / Balance:
+- AzerPUG's Mana Management: (*Add Link*).
+
+Balance / Feral:
+- AzerPUG's Interrupt Helper: (*Add Link*).
 
 # Requirements.
 To make sure that the event does not become a wipefest, we have to put some boundaries and requirements. These requirements are low, if not a bit too low. But should be easily obtainable by anyone who wants to join. If you need help in making this requirements, the AzerPUG community can maybe help you out! Join our Discord (see the website link above) and come have a chat with us! (You will need to join the Discord anyway, for the event itself!)
