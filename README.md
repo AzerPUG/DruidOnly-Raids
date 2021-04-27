@@ -55,6 +55,9 @@ Being on Discord during and for the entire event, is mandatory. We want to be ab
 - All gear Enchanted, where possible.
 - All gear Gemmed, where possible. (Sockets filled, not the Venari upgrade).
 
+### Experience.
+We will not be explaining every litle detail of every single boss. But we also do not want you to be raiding on your Druid for the first time. To make sure everyone has at least some what an idea what they are doing, we expect every one to be 10/10NM on their Druid, before the Druid Only Raid!
+
 ### Talents.
 We are fans of 'let people play what they want', but also of 'efficiency' and 'minmaxing'. To make sure we optimize at least a lot of passives, we have a few enforced talents.
 - Renewal. The 'Oh Shit' button your healers do not have, on a 90s CoolDown. (Restoration / Balance / Feral).
