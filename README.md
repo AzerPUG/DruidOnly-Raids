@@ -10,7 +10,12 @@ Although this is currently the very first, if this is actually fun and we get en
 
 # Rules.
 As an AzerPUG event, all AzerPUG standard rules would apply. Any other rules will be put in this document, to make it as accessible as possible for everyone involved.
-The AzerPUG rules can be found on our website: https://www.azerpug.com/
+The AzerPUG rules can be found on our website: https://www.azerpug.com/  
+And just to be sure: The Raid Leader is in charge, not you. We do not care...
+- ...how much you disagree.
+- ...how smart you think are.
+- ...how much experience you have.
+- ...how big dick numbers you can do.
 
 # Pre-Event Meeting.
 It is mandatory to have a meeting with Tex, the Raid Leader, somewhere in the week before the event. This meeting is to make sure you know the AddOns and have them prepared. That you are up to date with our rules. That you have your character (almost) fully prepped. And to answer any questions you might have, still.  
