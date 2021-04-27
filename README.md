@@ -24,7 +24,7 @@ Joining this event, means you automatically agree to this! (this is also a stand
 # AddOns.
 AzerPUG has several mandatory AddOns. For this event, these will also be mandatory, to make sure everything goes as smooth as we normaly try to have our raids.  
 The use of all these AddOns, the settings you will need and why they are mandatory will be explained, in detail, during the pre-event meeting!  
-Restoration / Guardian / Balance / Feral:
+###Restoration / Guardian / Balance / Feral:
 - Exorsus Raid Tools: (*Add Link*).
 - AzerPUG's Ready Check: (*Add Link*).
 
@@ -37,7 +37,7 @@ Balance / Feral:
 # Requirements.
 To make sure that the event does not become a wipefest, we have to put some boundaries and requirements. These requirements are low, if not a bit too low. But should be easily obtainable by anyone who wants to join. If you need help in making this requirements, the AzerPUG community can maybe help you out! Join our Discord (see the website link above) and come have a chat with us! (You will need to join the Discord anyway, for the event itself!)
 
-## Discord.
+### Discord.
 Being on Discord during and for the entire event, is mandatory. We want to be able to communicate. It is not a problem if you do not have a mic, althought it is strongly preferred. But at least hearing your Raid Leaders when they are talking will help out a lot!
 
 ## Gear.
