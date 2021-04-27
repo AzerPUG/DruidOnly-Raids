@@ -14,7 +14,7 @@ The AzerPUG rules can be found on our website: https://www.azerpug.com/
 
 # Pre-Event Meeting.
 It is mandatory to have a meeting with Tex, the Raid Leader, somewhere in the week before the event. This meeting is to make sure you know the AddOns and have them prepared. That you are up to date with our rules. That you have your character (almost) fully prepped. And to answer any questions you might have, still.  
-There will also be a general meeting of the Druids. This general meeting will also talk over the important things and will count as your mandatory meeting with Tex!  
+There will also be a general meeting of the Druids. This general meeting will also talk over the important things and will count as your mandatory meeting with Tex!
 We strongly suggest you to attend this meeting, but it is not mandatory, as long as you have any meeting with Tex in the week prior to the event!
 
 # Filming and Streaming.
