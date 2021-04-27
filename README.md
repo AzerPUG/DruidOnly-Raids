@@ -56,7 +56,7 @@ Being on Discord during and for the entire event, is mandatory. We want to be ab
 - All gear Gemmed, where possible. (Sockets filled, not the Venari upgrade).
 
 ### Talents.
-I am a fan of let people play what they want, but also one of efficiency and minmaxing. To make sure we optimize at least a lot of passives, we have a few enforced talents.
+We are fans of 'let people play what they want', but also of 'efficiency' and 'minmaxing'. To make sure we optimize at least a lot of passives, we have a few enforced talents.
 - Renewal. The 'Oh Shit' button your healers do not have, on a 90s CoolDown. (Restoration / Balance / Feral).
 - Restoration Affinity. Ysera's Gift all the way, but also the ability to help out healing when needed. (Guardian, Balance, Feral).
 - Guardian Affinity. Since we can not choose RestoAff as Resto, we will go with Damage Reduction, plus several extra tanks when needed! (Restoration).
