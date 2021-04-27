@@ -10,6 +10,11 @@ Although this is currently the very first, if this is actually fun and we get en
 As an AzerPUG event, all AzerPUG standard rules would apply. Any other rules will be put in this document, to make it as accessible as possible for everyone involved.  
 The AzerPUG rules can be found on our website: https://www.azerpug.com/
 
+# Pre-Event Meeting.
+It is mandatory to have a meeting with Tex, the Raid Leader, somewhere in the week before the event. This meeting is to make sure you know the AddOns and have them prepared. That you are up to date with our rules. That you have your character (almost) fully prepped. And to answer any questions you might have, still.  
+There will also be a general meeting of the Druids. This general meeting will also talk over the important things and will count as your mandatory meeting with Tex!  
+We strongly suggest you to attend this meeting, but it is not mandatory, as long as you have any meeting with Tex in the week prior to the event!
+
 # Filming and Streaming.
 The event will be streamed on the offical AzerPUG Twitch. A video will be created and put on the official AzerPUG YouTube after wards as well.  
 All direct donations during this event, will be going to *Input Charity Here!*. 
@@ -18,8 +23,9 @@ Joining this event, means you automatically agree to this! (this is also a stand
 
 # AddOns.
 AzerPUG has several mandatory AddOns. For this event, these will also be mandatory, to make sure everything goes as smooth as we normaly try to have our raids.  
-The use of all these AddOns, including why they are mandatory will be explained, in detail, before the event!  
+The use of all these AddOns, the settings you will need and why they are mandatory will be explained, in detail, during the pre-event meeting!  
 Restoration / Guardian / Balance / Feral:
+- Exorsus Raid Tools: (*Add Link*).
 - AzerPUG's Ready Check: (*Add Link*).
 
 Restoration / Balance:
