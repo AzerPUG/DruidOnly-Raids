@@ -9,7 +9,7 @@ Although this is currently the very first, if this is actually fun and we get en
 #### *If you want to sponsor, promote or host (Twitch) the event/charity, please, contact Tex#1991 on Discord for more info!*
 
 # Rules.
-As an AzerPUG event, all AzerPUG standard rules would apply. Any other rules will be put in this document, to make it as accessible as possible for everyone involved.  
+As an AzerPUG event, all AzerPUG standard rules would apply. Any other rules will be put in this document, to make it as accessible as possible for everyone involved.
 The AzerPUG rules can be found on our website: https://www.azerpug.com/
 
 # Pre-Event Meeting.
