@@ -66,5 +66,5 @@ I am a fan of let people play what they want, but also one of efficiency and min
 - 3 Flasks (2 for Alchemysts).
 - 3 Weapon Mods.
 - 2 Armor Kits.
-- 20 Potions. (Applicable for your role).
+- 20 Potions. (Applicable for your role).  
 Feasts will be provided, if you rather eat personal food, bring at least 20!
