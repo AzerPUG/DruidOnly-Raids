@@ -11,8 +11,8 @@ Although this is currently the very first, if this is actually fun and we get en
 # Rules.
 As an AzerPUG event, all AzerPUG standard rules would apply. Any other rules will be put in this document, to make it as accessible as possible for everyone involved.
 The AzerPUG rules can be found on our website: https://www.azerpug.com/  
-By participating in this event, you automatically agree to **ALL** the AzerPUG rules, as well as the rules set in this document.
-And just to be sure, it probably has to be said for ***someone***:  
+By participating in this event, you automatically agree to **ALL** the AzerPUG rules, as well as the rules set in this document.  
+And just to be sure, as it probably has to be said for ***someone***:  
 This is not your event. You do not make the rules. You are not in charge. You are not the Raid Leader. 
 We do not care...
 - ...how much you disagree.
