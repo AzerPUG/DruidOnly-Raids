@@ -6,7 +6,7 @@ To add a bit of Class Fantasy, we are only taking in Night Fae Druids. Us tree h
 So here we are. Back again into Druid only mode. Organizing a Druid only raid, for the fun of it.  
 Although this is currently the very first, if this is actually fun and we get enough people together, this could become a thing we do once or twice per patch!  
 
-### *If you want to sponsor, promote or host (Twitch) the event/charity, please, contact Tex#1991 on Discord for more info!*
+### *If you want to sponsor or promote the event/charity, please, contact Tex#1991 on Discord for more info!*
 
 # Rules.
 As an AzerPUG event, all AzerPUG standard rules would apply. Any other rules will be put in this document, to make it as accessible as possible for everyone involved.
