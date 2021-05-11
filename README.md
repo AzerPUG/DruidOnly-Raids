@@ -27,22 +27,21 @@ We strongly suggest you to attend this meeting, but it is not mandatory.
 
 # Filming and Streaming.
 The event will be streamed on the offical AzerPUG Twitch. A video will be created and put on the official AzerPUG YouTube after wards as well.  
-All direct donations during this event, will be going to *Input Charity Here!*. 
-Due to this, and to prevent 'competing' with our official channels, you are NOT allowed to stream / record the event.  
+This will also be a charity event, for Doctors Without Borders / Médecins Sans Frontières (MSF), through Tiltify. 
+Due to this, and to prevent 'competing' with our official channels during the Charity Event, you are NOT allowed to stream / record the event.  
 Joining this event, means you automatically agree to this! (this is also a standard AzerPUG rule).
 
 # AddOns.
 AzerPUG has several mandatory AddOns. For this event, these will also be mandatory, to make sure everything goes as smooth as we normaly try to have our raids.  
-The use of all these AddOns, the settings you will need and why they are mandatory will be explained, in detail, during the pre-event meeting!  
+The use of all these AddOns, the settings you will need and why they are mandatory will be explained, in detail, during the pre-event meeting! Although not mandatory like the other AddOns, we urge you to also get the AzerPUG's Core AddOn. The Core will improve the performance of all our other AddOns, especially when using more than one.  
 ### Restoration / Guardian / Balance / Feral:
-- Exorsus Raid Tools: (*Add Link*).
-- AzerPUG's Ready Check: (*Add Link*).
+- AzerPUG's Ready Check: https://www.curseforge.com/wow/addons/azerpugs-readycheck-enhanced.
 
 ### Restoration / Balance:
-- AzerPUG's Mana Management: (*Add Link*).
+- AzerPUG's Mana Management: https://www.curseforge.com/wow/addons/azerpugs-mana-management.
 
 ### Balance / Feral:
-- AzerPUG's Interrupt Helper: (*Add Link*).
+- AzerPUG's Interrupt Helper: https://www.curseforge.com/wow/addons/azerpugs-interrupt-helper.
 
 # Requirements.
 To make sure that the event does not become a wipefest, we have to put some boundaries and requirements. These requirements are low, if not a bit too low. But should be easily obtainable by anyone who wants to join. If you need help in making this requirements, the AzerPUG community can maybe help you out! Join our Discord (see the website link above) and come have a chat with us! (You will need to join the Discord anyway, for the event itself!)
