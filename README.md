@@ -75,3 +75,6 @@ We are fans of 'let people play what they want', but also of 'efficiency' and 'm
 - 2 Armor Kits.
 - 20 Potions. (Applicable for your role).  
 Feasts will be provided, if you rather eat personal food, bring at least 20!
+
+# Signing Up.
+If you read this document and are willing to abide by the rules stated here (
