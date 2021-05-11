@@ -77,4 +77,6 @@ We are fans of 'let people play what they want', but also of 'efficiency' and 'm
 Feasts will be provided, if you rather eat personal food, bring at least 20!
 
 # Signing Up.
-If you read this document and are willing to abide by the rules stated here (
+If you read this document and are willing to abide by both the AzerPUG standard rules, as well as those stated in here, you can sign up easily by contacting Tex#1991 on Discord.  
+Please, in your first message, to speed things up, mention the Druid Only Raid // Charity Event, your spec, and link your armory!  
+Make sure you have checked first if your role is still available here: https://docs.google.com/spreadsheets/d/1X9ahw1e5GY1Lo0LVXw8LgcV9yQZLd2BR8FWDkV0kNOU/edit?usp=sharing
