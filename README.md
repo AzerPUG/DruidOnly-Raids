@@ -1,5 +1,5 @@
 # Pre-Info, before you read.
-- This event will be on Alliance-EU, you are not able to join otherwise!
+- This event will be on ***Alliance-EU***, you are not able to join otherwise!
 
 # Druid Only Raids, by AzerPUG (Tex).
 Back in Cataclysm, I was raiding with a Druid Only guild. We struggled, because we were missing immunites and so many class buffs. But we enjoyed the challenge and even had some status on the server because of it. We had hardcore raiders (that happened to be Druids) joining sometimes for fun, or helping by coaching us and theorycrafting with us.  
