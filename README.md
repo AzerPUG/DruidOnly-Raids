@@ -77,6 +77,12 @@ We are fans of 'let people play what they want', but also of 'efficiency' and 'm
 Feasts will be provided, if you rather eat personal food, bring at least 20!
 
 # Signing Up.
-If you read this document and are willing to abide by both the AzerPUG standard rules, as well as those stated in here, you can sign up easily by contacting Tex#1991 on Discord.  
+If you read this document and are willing to abide by both the AzerPUG standard rules, as well as those stated in here, you can sign up, assuming you can make the following DeadLines:
+There are a few DeadLines you are supposed to meet with Signing up. Please keep those in mind:
+- Registration Deadline: 05/06/2021
+- Requirements DeadLine: 12/06/2021
+- TexMeeting DeadLine: 18/06/2021
+- Druid Only Raid: 19/06/2021
+You can sign up by sending Tex a DM on Discord through Tex#1991.
 Please, in your first message, to speed things up, mention the Druid Only Raid // Charity Event, your spec, and link your armory!  
 Make sure you have checked first if your role is still available here: https://docs.google.com/spreadsheets/d/1X9ahw1e5GY1Lo0LVXw8LgcV9yQZLd2BR8FWDkV0kNOU/edit?usp=sharing
