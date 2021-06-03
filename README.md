@@ -1,6 +1,7 @@
 # Pre-Info, before you read.
 - This event will be on ***Alliance-EU***, you are not able to join otherwise!
 - Event takes place on 19/06/2021, 19:00 Server Time!
+- Registration Deadline: June 12th (Must meet all requirements already!)
 
 # Druid Only Raids, by AzerPUG (Tex).
 Back in Cataclysm, I was raiding with a Druid Only guild. We struggled, because we were missing immunites and so many class buffs. But we enjoyed the challenge and even had some status on the server because of it. We had hardcore raiders (that happened to be Druids) joining sometimes for fun, or helping by coaching us and theorycrafting with us.  
@@ -27,7 +28,7 @@ We do not care...
 # Pre-Event Meeting.
 It is mandatory to have a meeting with Tex, the Raid Leader, somewhere in the week before the event. This meeting is to make sure you know the AddOns and have them prepared. That you are up to date with our rules. That you have your character (almost) fully prepped. And to answer any questions you might have, still.  
 There will also be a general meeting of the Druids. This general meeting will also talk over the important things and may count as your mandatory meeting with Tex!
-We strongly suggest you to attend this meeting, but it is not mandatory.
+We strongly suggest you to attend this meeting, but it is not mandatory. This meeting will be June 12th, 2021, at 19:00 Server Time, in the AzerPUG Discord. It should last under an hour, but as with (almost) all our events, we often have people sticking around longer afterwards, which you are more than welcome to do as well!
 
 # Filming and Streaming.
 The event will be streamed on the offical AzerPUG Twitch. A video will be created and put on the official AzerPUG YouTube after wards as well.  
@@ -48,7 +49,7 @@ The use of all these AddOns, the settings you will need and why they are mandato
 - AzerPUG's Interrupt Helper: https://www.curseforge.com/wow/addons/azerpugs-interrupt-helper.
 
 # Requirements.
-To make sure that the event does not become a wipefest, we have to put some boundaries and requirements. These requirements are low, if not a bit too low. But should be easily obtainable by anyone who wants to join. If you need help in making this requirements, the AzerPUG community can maybe help you out! Join our Discord (see the website link above) and come have a chat with us! (You will need to join the Discord anyway, for the event itself!)
+To make sure that the event does not become a wipefest, we have to put some boundaries and requirements. These requirements are low, if not a bit too low. But should be easily obtainable by anyone who wants to join. If you need help in making these requirements, the AzerPUG community can maybe help you out! Join our Discord (see the website link above) and come have a chat with us! (You will need to join the Discord anyway, for the event itself!)
 
 ### Discord.
 Being on Discord during and for the entire event, is mandatory. We want to be able to communicate. It is not a problem if you do not have a mic, althought it is strongly preferred. But at least hearing your Raid Leaders when they are talking will help out a lot!
@@ -60,12 +61,12 @@ Being on Discord during and for the entire event, is mandatory. We want to be ab
 - All gear Gemmed, where possible. (Sockets filled, not the Venari upgrade).
 
 ### Experience.
-We will not be explaining every litle detail of every single boss. But we also do not want you to be raiding on your Druid for the first time. To make sure everyone has at least some what an idea what they are doing, we expect every one to be 10/10NM on their Druid, before the Druid Only Raid!  
+We will not be explaining every litle detail of every single boss and thus we do not want you to be raiding on your Druid for the first time. To make sure everyone has at least some what an idea what they are doing, we expect every one to be 10/10NM on their Druid, before the Druid Only Raid!  
 However, do not fear, AzerPUG has your back! Every Tuesday, from 19:00 - 22:00 Server Time, we do a Normal Teaching Raid. You can join this with a priority spot if you need to get those bosses down for the event. Although we never promise how much we can kill, we more often kill 10/10NM + 1/10HC, then anything less.
 
 ### Talents.
 We are fans of 'let people play what they want', but also of 'efficiency' and 'minmaxing'. To make sure we optimize at least a lot of passives, we have a few enforced talents.
-- Renewal. The 'Oh Shit' button your healers do not have, on a 90s CoolDown. (Restoration / Balance / Feral).
+- Renewal. The 'Oh Shit' button your healers will not have, on a 90s CoolDown. (Restoration / Balance / Feral).
 - Restoration Affinity. Ysera's Gift all the way, but also the ability to help out healing when needed. (Guardian, Balance, Feral).
 - Guardian Affinity. Since we can not choose RestoAff as Resto, we will go with Damage Reduction, plus several extra tanks when needed! (Restoration).
 - Heart of the Wild. Making your Affinity choice stronger gives us all the things we want, but stronger! (Restoration / Guardian / Balance / Feral).
@@ -78,11 +79,8 @@ We are fans of 'let people play what they want', but also of 'efficiency' and 'm
 Feasts will be provided, if you rather eat personal food, bring at least 20!
 
 # Signing Up.
-If you read this document and are willing to abide by both the AzerPUG standard rules, as well as those stated in here, you can sign up, assuming you can make the following DeadLines:
-There are a few DeadLines you are supposed to meet with Signing up. Please keep those in mind:
-- Registration Deadline: 05/06/2021
-- Requirements DeadLine: 12/06/2021
-- TexMeeting DeadLine: 18/06/2021
+If you read this document and are willing to abide by both the AzerPUG standard rules, as well as those stated in here, you can sign up:
+- Registration & Requirements DeadLine: 12/06/2021, 18:00 Server Time. (1 hour before the Meeting of the Druids).
 - Druid Only Raid: 19/06/2021
 
 You can sign up by sending Tex a DM on Discord through Tex#1991.
