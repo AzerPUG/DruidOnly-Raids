@@ -15,7 +15,7 @@
 [![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitter%20Panel%20Small.png "")](http://www.azerpug.com/twitter "") 
 [![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Instagram%20Panel%20Small.png "")](http://www.azerpug.com/instagram "") 
 
-# THE EVENT HAS PASSED AND WAS A SUCCESS! NEW INFO WILL COME WHEN A NEW ONE IS PLANNED. CHECK OUT OUR DISCORD IF YOU WANT TO GET NOTIFIED WHEN ANOTHER DRUID ONYL EVENT IS SCEDULED!
+# THE EVENT HAS PASSED AND WAS A SUCCESS! NEW INFO WILL COME WHEN A NEW ONE IS PLANNED. CHECK OUT OUR DISCORD IF YOU WANT TO GET NOTIFIED WHEN ANOTHER DRUID ONLY EVENT IS SCEDULED!
 
 # Pre-Info, before you read.
 - This event will be on ***Alliance-EU***, you are not able to join otherwise!
